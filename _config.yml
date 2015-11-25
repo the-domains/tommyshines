@@ -1,0 +1,28 @@
+name: tommyshines
+favicon: null
+layout_spectrum: 0.5427303658798337
+typography_spectrum: 0.9573790121357888
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1583718555048108
+  lightness: 0.552373579936102
+  saturation: 0.5494139916263521
+  rhythmicContrast: 0.28858748730272055
+purpose: []
